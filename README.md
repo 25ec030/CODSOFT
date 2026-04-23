@@ -56,7 +56,8 @@ String module
 ### Purpose ###
 This project demonstrates the use of **random character generation and user input handling**.
 ### Screenshot ###
-<img width="1900" height="947" alt="Screenshot 2026-04-23 132543" src="https://github.com/user-attachments/assets/8e24b54f-4b9d-4410-8871-e8711b95faba" />
+<img width="590" height="421" alt="Screenshot 2026-04-23 185750" src="https://github.com/user-attachments/assets/983361af-c7e7-4d57-b8a0-7ce734c5dc52" />
+
 
 ### Author ###
 Chriselda Evangeline A
